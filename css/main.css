@@ -21,6 +21,10 @@ body {
 	font-size: 10px;
 	padding-top: 4px;
 }
+.boton-sumate a {
+	text-decoration: none;
+	color: white;
+}
 nav a {
 	text-decoration: none;
 	font-size: 10px;
