@@ -90,10 +90,13 @@ nav {
  }
  .boton-caja-uno p {
 	text-align: center;
-	margin-top: 10;
-	color: white;
+	margin-top: 10px;
  }
-
+.boton-caja-uno a {
+	text-decoration: none;
+	color: white;
+	padding-top: 10px;
+}
 
 #dos {
 	margin-top: 0;
